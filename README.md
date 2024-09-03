@@ -148,7 +148,7 @@ With everything installed, you can now access the Wazuh Dashboard:
    - Go to `https://<your-wazuh-server-ip>:5601`.
    - Log in using the admin credentials you saved earlier (`admin` and the password from `admin.txt`).
 
-   ![Wazuh Dashboard Login](https://wazuh.com/assets/img/screenshots/security_dashboard.png)
+   ![Wazuh Dashboard Login](https://documentation.wazuh.com/current/_images/vulnerability-detection1.png)
 
 2. **Explore the Dashboard**:
    - Once logged in, you can explore various features like real-time monitoring, alert management, and more.
